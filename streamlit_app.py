@@ -11,7 +11,7 @@ st.info("Features include find probable PS2 stations according to your CGPA , Ge
          
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
-        {"role": "assistant", "content": "Ask me a question about PHY F241 Course."}
+        {"role": "assistant", "content": " Example - Ask me a question about PHY F241 Course."}
     ]
 
 @st.cache_resource(show_spinner=False)
