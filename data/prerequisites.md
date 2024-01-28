@@ -1,4 +1,4 @@
-| Course Name                                                          | Prerequisite Name of the Course                                               |
+| Course Name                                                          | Prerequisite Name of course                                                   |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | BIO F211 BIOLOGICAL CHEMISTRY                                        | BIO F111 GENERAL BIOLOGY                                                      |
 | BIO F212 MICROBIOLOGY                                                | BIO F111 GENERAL BIOLOGY                                                      |
@@ -107,18 +107,18 @@
 | CHE F433 CORROSION ENGINEERING                                       | MF F213 MATERIAL SCIENCE AND ENGINEERING                                      |
 | CHE F471 ADVANCE PROCESS CONTROL                                     | CHE F342 PROCESS DYN & CONTROL                                                |
 | CHE G511 Fluidization Engineering                                    | CHE F311 Kinetics & Reactor Design                                            |
-| CHE G512 Petroleum Refining and Petrochemicals                       | CHE F312 Chemical Engineering Lab � I                                         |
+| CHE G512 Petroleum Refining and Petrochemicals                       | CHE F312 Chemical Engineering Lab                                             |
 | CHE G522 Polymer Technology                                          | CHE F311 Kinetics & Reactor Design                                            |
-| CHE G523 Mathematical Methods in Chemical Engineering                | CHE F312 Chemical Engineering Lab � I                                         |
+| CHE G523 Mathematical Methods in Chemical Engineering                | CHE F312 Chemical Engineering Lab                                             |
 | CHE G524 Introduction to Multiphase flow                             | CHE F414 Transport Phenomena                                                  |
-| CHE G526 Nuclear Engineering                                         | CHE F312 Chemical Engineering Lab � I                                         |
+| CHE G526 Nuclear Engineering                                         | CHE F312 Chemical Engineering Lab                                             |
 | CHE G528 Introduction to Nanoscience & Technology                    | CHE F243 Material Science & Engineering                                       |
 | CHE G529 Paper and Pulp Technology                                   | CHE F314 Process Design Principles I                                          |
-| CHE G533 Petroleum Product Characterization                          | CHE F312 Chemical Engineering Lab � I                                         |
+| CHE G533 Petroleum Product Characterization                          | CHE F312 Chemical Engineering Lab                                             |
 | CHE G551 Advanced Separation Technology                              | CHE F313 Separation Processes II                                              |
 | CHE G613 Advanced Mass Transfer                                      | CHE F244 Separation Processes I                                               |
-| CHE G614 Advanced Heat Transfer                                      | CHE F312 Chemical Engineering Lab � I                                         |
-| CHE G617 Petroleum Refinery Engineering                              | CHE F341 Chemical Engineering Lab � II                                        |
+| CHE G614 Advanced Heat Transfer                                      | CHE F312 Chemical Engineering Lab                                             |
+| CHE G617 Petroleum Refinery Engineering                              | CHE F341 Chemical Engineering Lab                                             |
 | CHE G618 Petroleum Downstream Processing                             | CHE F314 Process Design Principles I                                          |
 | CHE G619 Process Intensification                                     | CHE F343 Process Design Principles II                                         |
 | CHE G620 Energy Integration Analysis                                 | CHE F343 Process Design Principles II                                         |
